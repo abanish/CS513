@@ -1,2 +1,1 @@
-# CS513
-design and analysis of algorithms 
+# Design and Analysis of Algorithms 
